@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.iatk_vive.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\zhoux\\UnityProjects\\NUILab_IAPlatform-main_XR-main_AR\\NUILabIAPlatform-mainXR-main\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "IATK_VIVE [Testing]"
+        }
+      }
+    }
+  ]
+}
